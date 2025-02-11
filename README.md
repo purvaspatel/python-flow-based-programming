@@ -1,6 +1,6 @@
 Flow based programming visual editor in python
 
-1. The editor enable you to define an input node with custom data type (double click the input node)
+1. The editor enables you to define an input node with custom data type (double click the input node)
 2. Create custom logic nodes.
 3. Double click the logic node to open a custom code panel.
 4. Inside the panel you can view all the nodes and values as input to that logic node.
